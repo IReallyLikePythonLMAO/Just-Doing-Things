@@ -1,5 +1,0 @@
-    for number in range(-4, 5):
-        if number > 0:
-            print("positive")
-        else:
-            print("negative")
